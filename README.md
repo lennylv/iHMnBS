@@ -30,3 +30,5 @@ python main.py
 For the data input, you just need to fill the first argument of the `get_fn` function in the `main` function with your data path in the `main.py` file. 
 
 The subsequent code in `main` function deals with the slicing of the data when we train the model. As the name implies, `train_valid_set` and `test_set` represent the training set and test set respectively, and later `train_set` and `valid_set` subdivide the training set into a set for training and a set for validation. This part of the code used for data segmentation can be commented out as appropriate when you test the code.
+
+Any more questions please let me know: 20204227065@stu.suda.edu.cn
